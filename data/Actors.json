@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Player1","characterIndex":0,"characterName":"Player1","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Player1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Player","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"magnifying glass","classId":9,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Player1","traits":[],"initialLevel":1,"maxLevel":1,"name":"magnifying glass","nickname":"magnifying glass","note":"","profile":""},
+{"id":3,"battlerName":"SF_Actor1_4","characterIndex":3,"characterName":"SF_Actor1","classId":9,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player2","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"SF_Actor3_5","characterIndex":4,"characterName":"SF_Actor3","classId":9,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"SF_Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player3","nickname":"","note":"","profile":""}
+]
